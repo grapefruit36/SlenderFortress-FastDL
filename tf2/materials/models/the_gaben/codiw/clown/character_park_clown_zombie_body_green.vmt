@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/the_gaben/codiw/clown/character_park_clown_zombie_body_green"
+	"$bumpmap" "models/the_gaben/codiw/clown/character_park_clown_zombie_body_n"
+	$nocull 1
+
+	"$phong" "1"
+	"$phongboost" "0.2"
+	"$phongexponent" "15"
+	"$phongfresnelranges"	"[1 1.05 1.25]"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "15"
+	$rimlightboost 0.5
+}

@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/the_gaben/paranoia2/clonsoldier/char_clone_soldier"
+	"$bumpmap" "models/the_gaben/paranoia2/clonsoldier/char_clone_soldier_norm"
+	$nocull 1
+
+	"$phong" "1"
+	"$phongboost" "0.2"
+	"$phongexponent" "8"
+	"$phongtint" "{150 150 255}"
+	"$phongfresnelranges" "[1 1.05 1.25]"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "15"
+	"$rimlightboost" 0.5
+
+	"$lightwarptexture" "models/the_gaben/paranoia2/hazmat/lightwarp"
+}

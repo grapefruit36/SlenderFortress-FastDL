@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/the_gaben/kf1/puppet_ventriloquist/ventriloquist_green_d"
+    	"$bumpmap"     "models/the_gaben/kf1/puppet_ventriloquist/ventriloquist_n"
+	$nocull 1
+
+	
+
+	$phong "1"
+	$phongboost "0.5"
+	$phongexponent 5
+	$phongfresnelranges "[1 2 4]"
+	
+
+	"$rimlight" "1"
+	"$rimlightexponent" "7"
+	"$rimlightboost" "0.3"
+
+}

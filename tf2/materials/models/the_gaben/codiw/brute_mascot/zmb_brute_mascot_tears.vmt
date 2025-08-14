@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/the_gaben/codiw/brute_mascot/zmb_brute_mascot_tears"
+	"$bumpmap" "models/the_gaben/codiw/brute_mascot/zmb_brute_mascot_tears_n"
+
+	$translucent 1
+}

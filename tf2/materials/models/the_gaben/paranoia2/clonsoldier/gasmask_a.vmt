@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/the_gaben/paranoia2/clonsoldier/gasmask_a"
+	$nocull 1
+}

@@ -1,0 +1,24 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/the_gaben/paranoia2/boss/bes"
+	"$bumpmap" "models/the_gaben/paranoia2/boss/bes_norm"
+	$nocull 1
+	$alphatest 1
+
+	"$phong" "1"
+	"$phongboost" "0.2"
+	"$phongexponent" "8"
+	"$phongtint" "{252 165 159}"
+	"$phongfresnelranges" "[1 1.05 1.25]"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "15"
+	"$rimlightboost" 0.5
+
+	"$detail" "models/the_gaben/paranoia2/boss/bes_luma"
+    	 $detailscale 1        
+       	 $detailblendfactor 3
+      	 $detailblendmode 5 
+
+	"$lightwarptexture" "models/the_gaben/paranoia2/hazmat/lightwarp"
+}
