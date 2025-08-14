@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\joshyfix\hottestdog\chief\white"
+	"$bumpmap" "models\joshyfix\hottestdog\chief\flat"
+
+ 	"$phong" "1"
+	"$phongexponent" "2"
+	"$phongboost"	"7"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+                "$phongtint" "[2 2 2]"
+$nocull 1
+$halflambert 0
+$diffuseexp 1.5
+}

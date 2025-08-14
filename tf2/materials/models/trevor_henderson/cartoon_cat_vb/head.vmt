@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+//Textures
+	"$BaseTexture" "models/trevor_henderson/cartoon_cat_vb/head"
+	"$BumpMap" "models/trevor_henderson/cartoon_cat_vb/head_n"
+	"$nocull" 1
+                "$selfillummask" "models/trevor_henderson/cartoon_cat_vb/head_l"
+                "$selfillum" "1"
+                "$selfillumtint" "[9 9 9]"
+               "$surfaceprop" "flesh"
+                $phong 1
+	$phongboost 1.0
+	$phongexponent 5	
+	$phongexponenttexture "models/trevor_henderson/cartoon_cat_vb/head_l"
+	$phongfresnelranges "[0 1 1]"
+                $ambientocclusion 1
+                $halflambert 1
+	$rimlight 1
+	$rimlightexponent 2
+	$rimlightboost .6
+}

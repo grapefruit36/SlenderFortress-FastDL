@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+$basetexture "models/robgamings/rynfox/fnaf1/new/black"
+$bumpmap "models/robgamings/rynfox/fnaf1/new/flat"
+$phongexponenttexture "models/robgamings/rynfox/fnaf1/new/blackspecular"
+$phongwarptexture "models/robgamings/rynfox/fnaf1/new/blackspeccolor"
+$surfaceprop glass
+$phong "1"
+$phongexponent "5.5"
+$phongboost "19"
+$phongfresnelranges "[0.05 0.5 1]"
+$phongalbedotint "1"
+$halflambert "1"
+$phongalbedotint "1"
+$nodecal "1"
+$model "1"
+$diffuseexp "1.5"
+$phongtint "[ 0.349 0.274 0.006 ]"
+$normalmapalphaenvmapmask   "1"
+$nocull 1
+}
