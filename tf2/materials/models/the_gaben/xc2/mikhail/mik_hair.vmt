@@ -1,0 +1,20 @@
+VertexLitGeneric
+{
+	$basetexture "models/the_gaben/xc2/mikhail/mik_hair"
+	$bumpmap "models/effects/flat_normal"
+
+	$nocull 1
+	$nodecal 1
+
+	$color2 "[0.9 0.9 0.9]"
+
+	$emissiveblendenabled	1
+	$emissiveblendtexture	"models/the_gaben/xc2/akhos/white"
+	$emissiveblendbasetexture	"models/the_gaben/xc2/mikhail/mik_hair"
+
+	$emissiveblendtint	"[1 1 1]"
+	$emissiveblendstrength	".035"
+	$emissiveblendscrollvector	"[0 0 0]"
+
+	$lightwarptexture "models/the_gaben/xc2/akhos/hair_lw"
+}

@@ -1,0 +1,26 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/the_gaben/xc2/mikhail/crystal"
+	"$bumpmap" "models/the_gaben/xc2/mikhail/crystal_nrm"
+
+	$surfaceprop glass
+	$nodecal 1
+
+
+	$emissiveblendenabled	1
+	$emissiveblendtexture	"models/the_gaben/xc2/akhos/white"
+	$emissiveblendbasetexture	"models/the_gaben/xc2/mikhail/crystal"
+
+	$emissiveblendtint	"[1 1 1]"
+	$emissiveblendstrength	"2.0"
+	$emissiveblendscrollvector	"[0 0 0]"
+
+//	"$PhongAlbedotint"	"1"
+
+	"$Phong" "1"
+	"$PhongBoost" "1.5"
+	"$PhongExponent" "5"
+	"$phongfresnelranges"	"[.35 .45 .55]"	
+	$phongtint "{35 176 252}"
+	$nocull	1
+}

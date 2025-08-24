@@ -1,0 +1,33 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/the_gaben/xc2/mikhail/wp_fan"
+	"$bumpmap" "models/the_gaben/xc2/mikhail/wp_fan_nrm"
+
+	$surfaceprop weapon
+	$nodecal 1
+
+	$phongexponenttexture "models/the_gaben/xc2/mikhail/wp_fan_exp"
+
+	"$color2"	"[0.65 0.65 0.65]"
+
+	$selfillum 1
+	$selfillumtint "[1.5 1.5 1.5]"
+
+	"$PhongAlbedotint"	"1"
+
+	"$Phong" "1"
+	"$PhongBoost" "6.5"
+//	"$PhongExponent" "2"
+	"$phongfresnelranges"	"[.35 .25 .45]"	
+	$nocull	1
+
+	"$phongdisablehalflambert" "1"
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmapfresnel" "1"
+
+	"$envmaptint"		"[0.3 0.3 0.3]"
+
+//	"$lightwarptexture" "models/the_gaben/xc2/akhos/met_lw"
+}

@@ -1,0 +1,32 @@
+VertexLitGeneric
+{
+	$baseTexture "models/the_gaben/xc2/perdido/lance"
+	$bumpmap "models/the_gaben/xc2/perdido/lance_nrm"
+
+
+	$phong "1"
+	$phongboost "0.25"
+	"$phongfresnelranges"	"[1.27 0.97 1.15]"
+	$phongexponent 3
+	
+	$phongtint "{35 176 252}"
+
+	$selfillum 1
+	$selfillumtint "[1.5 1.5 1.5]"
+
+	$detail "models/the_gaben/xc2/perdido/lance_crystal"
+	$detailscale 0.65
+	$detailblendfactor 1
+	$detailblendmode 1
+
+	"Proxies"
+	{ 
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$detailtexturetransform"
+			"texturescrollrate" .25
+			"texturescrollangle" 45.00
+		}
+	}
+}

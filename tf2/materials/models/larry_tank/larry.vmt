@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/larry_tank/larry"
+	"$bumpmap" "dev/bump_normal"
+	"$phong" "1"
+
+	"$phongfresnelrange_0" ".01"
+	"$phongfresnelrange_1" ".15"
+	"$phongfresnelrange_2" "1"
+	"$phongfresnelranges" "[.01 .15 1]"
+	"$lightwarptexture" "models/larry_tank/larry_ltwrp"
+	"$phongtint" "[.8 .8 1]"
+	"$phongboost" "8"
+	"$phongexponent" "6"
+	"$ambientocclusion" "1"
+}

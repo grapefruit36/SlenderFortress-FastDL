@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "st2_linux55/TV"
+                "$selfillum" "1"
+                "$selfillumtint" "[1 1 1]"
+}

@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/the_gaben/outlast/cannibal/weapon_d"
+	"$bumpmap" "models/the_gaben/outlast/cannibal/weapon_n"
+
+	"$phong" "1"
+	"$phongboost" "1.1"
+	"$phongexponent" "3"
+	"$phongfresnelranges"	"[.15 .25 .45]"	
+
+	$envmap env_cubemap
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.2 0.2 0.2]"
+	$envmapfresnel 0.1
+
+	"$rimlight" "1"
+	"$rimlightexponent" "20"
+	$rimlightboost 0.2
+}

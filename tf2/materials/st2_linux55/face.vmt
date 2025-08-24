@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "st2_linux55/face"
+	"$bumpmap" "st2_linux55/white_n"
+                $phong 1
+	$phongboost 5
+	$phongexponent 5	
+	$phongfresnelranges "[0 0.5 1]"
+	"$detail" "st2_linux55/detail"
+
+	$rimlight 1
+	$rimlightexponent 2
+	$rimlightboost 2
+
+}

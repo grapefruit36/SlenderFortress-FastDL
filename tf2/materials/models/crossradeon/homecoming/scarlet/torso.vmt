@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+	$basetexture "models/crossradeon/Homecoming/scarlet/torso"
+	$bumpmap "models/crossradeon/Homecoming/scarlet/torso_n"
+	$surfaceprop Flesh
+$phong 1
+	$phongexponent 16
+$phongboost "0.2"
+$phongtint "[.85 .85 1]"
+$phongfresnelranges "[.5 .85 30]"
+
+	$nocull 1
+}

@@ -1,0 +1,16 @@
+"UnlitGeneric"
+{
+	"$basetexture" "overlays/fivenights_purple_guy/purple_guy"
+	$alphatest "0"
+	$translucent "1"
+
+	"Proxies" 
+	{ 
+		"AnimatedTexture" 
+		{
+			"animatedTextureVar" "$basetexture" 
+			"animatedTextureFrameNumVar" "$frame" 
+			"animatedTextureFrameRate" "17"
+		 } 
+	} 
+}

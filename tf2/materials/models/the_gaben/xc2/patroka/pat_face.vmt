@@ -1,0 +1,32 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/the_gaben/xc2/patroka/pat_face"
+	"$bumpmap" "models/effects/flat_normal"
+	$surfaceprop flesh
+	$nodecal 1
+
+	"$ambientocclusion" "0.2"
+
+	$emissiveblendenabled	1
+	$emissiveblendtexture	"models/the_gaben/xc2/akhos/white"
+	$emissiveblendbasetexture	"models/the_gaben/xc2/patroka/pat_face"
+
+	$emissiveblendtint	"[1 1 1]"
+	$emissiveblendstrength	".075"
+	$emissiveblendscrollvector	"[0 0 0]"
+
+	$color2	"[0.925 0.925 0.925]"
+
+	"$PhongAlbedotint"	"1"
+
+	"$Phong" "1"
+	"$PhongBoost" "0"
+	"$PhongExponent" "0"
+	"$PhongFresnelRanges" "[1 1 2]"
+
+	$nocull	1
+
+	"$lightwarptexture" "models/the_gaben/xc2/akhos/skin_lw"
+
+
+}

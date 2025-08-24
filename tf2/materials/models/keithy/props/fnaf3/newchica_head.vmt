@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/keithy/props/fnaf3/NewChica_Head"
+		"$envmapmask" "models/keithy/props/fnaf3/Specular_HEad"
+
+}

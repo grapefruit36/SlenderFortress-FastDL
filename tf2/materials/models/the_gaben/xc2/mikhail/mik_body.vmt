@@ -1,0 +1,39 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/the_gaben/xc2/mikhail/mik_body"
+	"$bumpmap" "models/the_gaben/xc2/mikhail/mik_body_nrm"
+
+	$surfaceprop combine_metal
+	$nodecal 1
+
+	$phongexponenttexture "models/the_gaben/xc2/akhos/color_exp"
+
+	"$color2"	"[0.75 0.75 0.75]"
+
+
+	$emissiveblendenabled	1
+	$emissiveblendtexture	"models/the_gaben/xc2/akhos/white"
+	$emissiveblendbasetexture	"models/the_gaben/xc2/mikhail/mik_body"
+
+	$emissiveblendtint	"[1 1 1]"
+	$emissiveblendstrength	".045"
+	$emissiveblendscrollvector	"[0 0 0]"
+
+	"$PhongAlbedotint"	"1"
+
+	"$Phong" "1"
+	"$PhongBoost" "23.5"
+	"$PhongExponent" "2"
+	"$phongfresnelranges"	"[.15 .25 .45]"	
+	$nocull	1
+
+	"$phongdisablehalflambert" "1"
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmapfresnel" "1"
+
+	"$envmaptint"		"[0.4 0.4 0.4]"
+
+	"$lightwarptexture" "models/the_gaben/xc2/akhos/skin_lw"
+}

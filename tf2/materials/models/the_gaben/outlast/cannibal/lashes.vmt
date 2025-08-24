@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/the_gaben/outlast/cannibal/lashes"
+	$translucent 1
+}

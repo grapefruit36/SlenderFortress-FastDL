@@ -1,0 +1,25 @@
+VertexLitGeneric
+{
+	$basetexture "models/the_gaben/xc2/perdido/hammer"
+	$bumpmap "models/the_gaben/xc2/perdido/hammer_nrm"
+
+	$phongexponenttexture "models/the_gaben/xc2/akhos/color_exp"
+
+	$color2 "[0.8 0.8 0.8]"
+
+	$phong "1"
+	$phongboost "1.5"
+	"$phongfresnelranges"	"[1.27 0.97 1.15]"
+	$phongalbedotint "1"
+	$phongexponent 3
+	
+	// Rim lighting parameters
+	"$rimlight" "1"
+	"$rimlightexponent" "13"
+	"$rimlightboost" "0.1"
+
+	$selfillum 1
+	$selfillumtint "[1.5 1.5 1.5]"
+
+	"$lightwarptexture" "models/the_gaben/xc2/akhos/met_lw"
+}

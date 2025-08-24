@@ -1,0 +1,23 @@
+VertexLitGeneric
+{
+	$basetexture "models/the_gaben/xc2/patroka/pat_hair"
+	$bumpmap "models/effects/flat_normal"
+
+	$surfaceprop flesh
+	$nodecal 1
+
+	$nocull 1
+
+	$lightwarptexture "models/the_gaben/xc2/akhos/hair_lw"
+//	$reflectivity "[0.25 0.25 0.25]"
+
+	$color2 "[0.8 0.8 0.8]"
+
+	$emissiveblendenabled	1
+	$emissiveblendtexture	"models/the_gaben/xc2/akhos/white"
+	$emissiveblendbasetexture	"models/the_gaben/xc2/patroka/pat_hair"
+
+	$emissiveblendtint	"[1 1 1]"
+	$emissiveblendstrength	".035"
+	$emissiveblendscrollvector	"[0 0 0]"
+}

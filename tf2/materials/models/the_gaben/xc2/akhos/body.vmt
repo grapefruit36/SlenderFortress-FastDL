@@ -1,0 +1,36 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/the_gaben/xc2/akhos/body"
+	"$bumpmap" "models/the_gaben/xc2/akhos/body_nrm"
+
+	$phongexponenttexture "models/the_gaben/xc2/akhos/body_exp"
+
+	"$color2"	"[0.75 0.75 0.75]"
+
+
+	$emissiveblendenabled	1
+	$emissiveblendtexture	"models/the_gaben/xc2/akhos/white"
+	$emissiveblendbasetexture	"models/the_gaben/xc2/akhos/body_glow"
+
+	$emissiveblendtint	"[1 1 1]"
+	$emissiveblendstrength	"1.5"
+	$emissiveblendscrollvector	"[0 0 0]"
+
+	"$PhongAlbedotint"	"1"
+
+	"$Phong" "1"
+	"$PhongBoost" "5.9"
+//	"$PhongExponent" "2"
+	"$phongfresnelranges"	"[.15 .25 .45]"	
+	$nocull	1
+
+	"$phongdisablehalflambert" "1"
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmapfresnel" "1"
+
+	"$envmaptint"		"[0.2 0.2 0.2]"
+
+	"$lightwarptexture" "models/the_gaben/xc2/akhos/met_lw"
+}

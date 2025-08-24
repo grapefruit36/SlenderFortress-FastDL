@@ -1,0 +1,20 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/the_gaben/killingfloor/roboclaus/gatling_d"
+	"$bumpmap" "models/the_gaben/killingfloor/roboclaus/gatling_n"
+	"$surfaceprop" "metal"
+
+	$halflambert 1
+	$phong 1
+	$diffuseexp 1
+
+	$phongfresnelranges "[3.5 .9 1]"
+	$ambientocclusion 1
+	$ambientocclcolor "[0.8 0.8 1]"
+	$ambientocclusiontexture "models/the_gaben/killingfloor/roboclaus/gatling_opacity"
+	$seamless_detail 1
+	$seamless_scale "1"
+	$phongboost 1
+	$phongexponent 75
+	
+}
