@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/leonnie/prettyface/prettyfhead"
+	"$bumpmap" "models/leonnie/prettyface/prettyfheadnormal"
+}

@@ -1,0 +1,15 @@
+"UnlitGeneric"
+{
+	"$basetexture" "overlays/grapefruit/ports/corrupted/corrupted_woody_death"
+
+	"Proxies" 
+	{ 
+		"AnimatedTexture" 
+		{
+			"animatedTextureVar" "$basetexture" 
+			"animatedTextureFrameNumVar" "$frame" 
+			"animatedTextureFrameRate" "30"
+		 } 
+	} 
+}
+

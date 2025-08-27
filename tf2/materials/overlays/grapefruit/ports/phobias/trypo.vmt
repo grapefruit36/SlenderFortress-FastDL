@@ -1,0 +1,15 @@
+"UnlitGeneric"
+{
+	"$basetexture" "overlays/grapefruit/ports/phobias/trypo"
+
+	"Proxies" 
+	{ 
+		"AnimatedTexture" 
+		{
+			"animatedTextureVar" "$basetexture" 
+			"animatedTextureFrameNumVar" "$frame" 
+			"animatedTextureFrameRate" "30"
+		 } 
+	} 
+}
+
