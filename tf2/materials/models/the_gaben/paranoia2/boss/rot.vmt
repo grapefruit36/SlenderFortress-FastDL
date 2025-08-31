@@ -1,7 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/the_gaben/paranoia2/boss/rot"
-	$nocull 1
-
-	"$lightwarptexture" "models/the_gaben/paranoia2/hazmat/lightwarp"
-}

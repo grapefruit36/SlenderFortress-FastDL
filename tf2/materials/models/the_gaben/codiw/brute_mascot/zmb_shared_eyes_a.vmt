@@ -1,9 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/the_gaben/codiw/brute_mascot/zmb_shared_eyes_a"
-
-	"$detail" "models/the_gaben/codiw/brute_mascot/zmb_shared_eyes_a_emis"
-    	 $detailscale 1        
-       	 $detailblendfactor 1.5
-      	 $detailblendmode 5 
-}

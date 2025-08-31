@@ -1,6 +1,0 @@
-"unlitgeneric"
-{
-	"$basetexture" "models/vince_sf/fleshpound/fpdevicebloomamber"
-	"$translucent" "1"
-	"$nocull" "1"
-}

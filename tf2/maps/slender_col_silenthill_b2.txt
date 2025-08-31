@@ -1,0 +1,18 @@
+Slender Silent Hill based on Silent Hill 1
+---------------------------------------------
+
+Silent Hill is a page focused map where the objective is to obtain Glyphs in order to make an attempt to escape the map!
+Be very careful not to get lost here; something is lurking for you in the fog...
+
+---------------------------------------------
+Play Area & Waiting Room by Simply Delicious
+
+Map Layout Model by Dr. Face
+
+Original Soundscape Script, Broken Bus & Page Model by Vincentor
+
+Silent Hill Bosses by Chillax
+
+Silent Hill Assets from Silent Hill: Alchemilla
+
+Final Touches; Bug Fixes, Optimization, finishing the Waiting Room, Radio Soundscape Script, Audio clean-up, SF2 Logic & Navmesh by Glubbable

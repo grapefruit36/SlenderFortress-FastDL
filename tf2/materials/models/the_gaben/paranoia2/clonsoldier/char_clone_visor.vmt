@@ -1,9 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/the_gaben/paranoia2/clonsoldier/char_clone_visor"
-
-	"$detail" "models/the_gaben/paranoia2/clonsoldier/char_clone_visor_luma"
-    	 $detailscale 1        
-       	 $detailblendfactor 3
-      	 $detailblendmode 5 
-}
