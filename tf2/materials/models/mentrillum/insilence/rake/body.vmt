@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\mentrillum\insilence\rake\body"
+	"$bumpmap" "models\mentrillum\insilence\rake\body_norm"
+	$phong 1
+	$phongboost .75
+	$phongexponent 15
+	$phongtint "[1 1 1]"
+	$phongfresnelranges "[1 1 1]"
+	"$phongexponenttexture" "models\mentrillum\insilence\rake\body_spec"
+	"$specularexponent"		"20"
+	"$specularscale"		 	"0"
+	"$specularcolor" 			"[1 1 1]"
+}
