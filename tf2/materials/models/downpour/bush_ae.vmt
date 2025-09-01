@@ -1,8 +1,0 @@
-"VertexLitGeneric"
-{
-	$basetexture "models/downpour/bush_ae"
- 	$translucent   1
- 	$alpha    0
-	$alphatest 0
-	$nocull 0
-}

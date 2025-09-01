@@ -1,7 +1,0 @@
-"LightmappedGeneric"
-{
-	"$baseTexture" "silenthilltextures/tc_a_unique09"
-	"$surfaceprop" "metal"
-	"%compilepassbullets" 1
-        "$alphatest" 1 
-}

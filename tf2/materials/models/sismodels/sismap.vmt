@@ -1,5 +1,0 @@
-"vertexlitgeneric"
-{
-	"$basetexture" "models/sismodels/sismap"
-	"$bumpmap" "models/sismodels/sismap_n"
-}

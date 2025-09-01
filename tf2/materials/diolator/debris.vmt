@@ -1,8 +1,0 @@
-"LightmappedGeneric"
-{
-"$basetexture" "diolator/debris"
-$bumpmap "diolator/debris_n"
-$surfaceprop concrete
-
-
-}

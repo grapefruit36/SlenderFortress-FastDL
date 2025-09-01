@@ -1,6 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture" "models/diolator/ceiling_lamp"
-	$selfillum 0
-
-}

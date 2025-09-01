@@ -1,7 +1,0 @@
-LightmappedGeneric
-{
-$baseTexture "diolator/asphalt3_dio"
-$surfaceprop dirt
-$bumpmap "diolator/asphalt3_n"
-
-}

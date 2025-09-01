@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture"	"models/ammodel/tablecompletemap"
-	"$surfaceprop"	"metal"
-	"$alpha"	"1"
-}
