@@ -1,0 +1,69 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/demani_sf/key_australium"
+	
+	"$phong" "1"
+	"$phongexponent" "165"
+	"$phongboost" "3"	
+	"$lightwarptexture" "models/lightwarps/weapon_lightwarp"
+	"$phongfresnelranges"	"[1.5 .5 3]"
+	"$halflambert" "1"
+	"$bumpmap"	"models/demani_sf/key_australium_normal"
+
+	// Begin GOLD look
+
+	"$one" "1"
+	"$envmap" "effects/goldcube"
+
+	"$envmaptint" "[1.5 1.2 2.0]"
+	
+	// End GOLD look
+	
+	"$rimlight" "1"						
+	"$rimlightexponent" "20"				
+	"$rimlightboost" ".5"
+
+	"360?$color2" "[ 0.6 0.6 0.6 ]"
+
+	"$glowcolor" "1"
+
+
+	"$yellow" "0"
+
+	"Proxies"
+	{
+		"AnimatedWeaponSheen"
+		{
+			"animatedtexturevar" 		"$sheenmapmask"
+			"animatedtextureframenumvar" 	"$sheenmapmaskframe"
+			"animatedtextureframerate" 		"40"
+		}
+		"invis"
+		{
+		}
+		"ModelGlowColor"
+		{
+			"resultVar" "$glowcolor"
+		}
+		"Equals"
+		{
+			"srcVar1"  "$glowcolor"
+			"resultVar" "$selfillumtint"
+		}
+		"Equals"
+		{
+			"srcVar1"  "$glowcolor"
+			"resultVar" "$color2"
+		}
+		"YellowLevel"
+		{
+			"resultVar" "$yellow"
+		}
+		"Multiply"
+		{
+			"srcVar1" "$color2"
+			"srcVar2" "$yellow"
+			"resultVar" "$color2"
+		}
+	}
+}
