@@ -1,0 +1,26 @@
+"VertexLitGeneric"
+{
+//Textures
+	"$BaseTexture" "models/trevor_henderson/cartoon_cat_vb/ears"
+	"$BumpMap" "models/trevor_henderson/cartoon_cat_vb/ears_n"
+
+//Phong Parameter
+	"$Phong"	 "1"
+	"$PhongBoost" "0.5" 	
+	"$PhongFresnelRanges" "[0.3 1 8]" //Controlls the optional Fresnel term
+	"$PhongAlbedoTint" "0"
+	"$NormalmapAlphaPhongMask"  "1"
+
+//Rimlight Parameter
+	"$Rimlight" "1"
+	"$RimMask" "1"
+	"$RimlightExponent" "4"
+	"$RimlightBoost" "1.0"
+
+//Other
+	"$Model" "1"
+	"$HalfLambert" "1"
+	"$AmbientOcclusion" "1"
+	"$NoCull" "0" //Disables backface culling
+	"$SurfaceProp" "flesh"
+}
