@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/JasonF13/Part7Jason/jason_eye"
+	"$bumpmap" "models/JasonF13/Part7Jason/jason_eyesss"
+	"$phong" "1"
+	"$phongexponenttexture" "models/JasonF13/Part7Jason/jason_eyeRMA"
+	"$phongexponent" "50"
+	"$phongboost" "0.3"
+	"$phongfresnelranges" "[1 .6 1]"
+}

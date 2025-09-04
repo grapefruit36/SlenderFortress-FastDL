@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/JasonF13/Part7Jason/NewJason7Mask_inst"
+	"$bumpmap" "models/JasonF13/Part7Jason/NewJason7Mask_instbump"
+	"$phong" "1"
+	"$phongexponenttexture" "models/JasonF13/Part7Jason/NewJason7Mask_instRMA"
+	"$phongexponent" "50"
+	"$phongboost" "0.3"
+	"$phongfresnelranges" "[1 .6 1]"
+	"$rimlight" "1"
+	"$rimlightexponent" "3"
+	"$rimlightboost" ".5"
+	"$detail" "models/JasonF13/Part7Jason/NewJason7Maskroughness"
+	"$detailscale" "1"
+	"$detailblendfactor" "1"
+	"$alphatest" "1"
+	"$nocull" "1"
+}
